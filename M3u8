@@ -1,0 +1,1291 @@
+#EXTM3U
+
+#EXTINF:-1,Azteca 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+
+#EXTINF:-1,Azteca Uno
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1,Azteca Mas
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+
+#EXTINF:-1,Telemundo Opcion 1
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
+#EXTINF:-1,TV Mas
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1,TV Mas OPCION 2 Canalonce
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
+
+#EXTINF:-1,CNN Chile | HD (Mirror USA)
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1,MSNBC | FHD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+
+#EXTINF:-1,America TV  | SD
+http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
+
+#EXTINF:-1,Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1,Sevilla FC | SD
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+
+#EXTINF:-1,TV3 | SD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+
+#EXTINF:-1,324 Cataluña | SD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+
+#EXTINF:-1,TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+#EXTINF:-1,TC | SD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+#EXTINF:-1,TELEMICRO CANAL 5 OPCION 2 RD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
+
+#EXTINF:-1,Color Vision Canal 9 RD
+http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
+
+#EXTINF:-1,MicroVision Canal 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:-1,Telesistema Canal 11 RD
+http://69.64.69.92:1935/hits-tv-ch11app/studio/playlist.m3u8
+
+#EXTINF:-1,TELECENTRO 13 RD
+http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
+
+#EXTINF:-1,Digital 15 RD
+http://bit.ly/2CLgJ6u
+
+#EXTINF:-1,Digital 15 RD Opcion 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
+
+#EXTINF:-1,RNN Canal 27
+http://ss6.domint.net:2042/rnn_str/canal27/chunklist_w1261449614.m3u8
+
+#EXTINF:-1,8 TV
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+
+#EXTINF:-1,La Tele Tuya
+http://enc-fwt.lorini.net/telet/telet/index.m3u8
+
+#EXTINF:-1,Xtremo Channel Zol | SD
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+
+#EXTINF:-1,RCN | SD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+
+#EXTINF:-1,CANAL Pelicula
+http://k3.usastreams.com:1935/tvsur1/tvsur1/chunklist_w1185370442.m3u8
+
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+
+#EXTINF:-1,Caracol TV | SD
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+
+#EXTINF:-1,CableOnda Sports | HD
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/playlist.m3u8
+
+#EXTINF:-1,CableOnda Sports 2
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+
+#EXTINF:-1,CableOnda Sports FC | HD
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/playlist.m3u8
+
+#EXTINF:-1,NFL Now | HD
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
+
+#EXTINF:-1,Viasat Sport | SD
+http://persik.by/stream/2944/263250/10249.m3u8
+
+#EXTINF:-1,MLB | HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1,Mundo Auto Television | HD
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+
+#EXTINF:-1,[AXN]
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
+
+#EXTINF:-1,[AXN white]
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
+
+#EXTINF:-1,M+ Series Xtra HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+
+#EXTINF:-1,Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+
+#EXTINF:-1,MLB TV 2
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+
+#EXTINF:-1,NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1,ESPN USA Channel
+http://stream.memesyndicate.com/live/thx/index.m3u8
+
+#EXTINF:-1,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1,Pac-12 Arizona | FHD
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+
+#EXTINF:-1,Pac-12 Bay Area | FHD
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
+#EXTINF:-1,Pac-12 Los Angeles | FHD
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+
+#EXTINF:-1,Pac-12 Mountain | FHD
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+
+#EXTINF:-1,Pac-12 Oregon | FHD
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+
+#EXTINF:-1,Pac-12 Washington | FHD
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+
+#EXTINF:-1,RTE News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF:-1,RTE 1 [NoKodi]
+http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+
+#EXTINF:-1,RTE 2 [NoKodi]
+http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
+
+#EXTINF:-1,RTE Jr. [NoKodi]
+https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+
+#EXTINF:-1,Movistar Fútbol 2 Separa
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+
+#EXTINF:-1,Movistar Golf | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+
+#EXTINF:-1,M. Formula 1 HD Mejor opcion
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+
+#EXTINF:-1,Movistar F1 opción 3
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+
+#EXTINF:-1,Movistar MotoGP | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+
+#EXTINF:-1,Eurosport 1 | HD
+http://65.254.55.10:4000/live/197/197.m3u8
+
+#EXTINF:-1,Deport Tv
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
+
+#EXTINF:-1,DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,Arena Ruso
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/1/index.m3u8
+
+#EXTINF:-1,Arena Ruso HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/289/index.m3u8
+
+#EXTINF:-1,Claro Sport
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u
+
+#EXTINF:-1,Futbol MAT RUSIA
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/5/index.m3u8
+
+#EXTINF:-1,Futbol MAT RUSIA 2
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/6/index.m3u8
+
+#EXTINF:-1,Futbol MAT RUSIA 3
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/7/index.m3u8
+
+#EXTINF:-1,Hash Futbol RUSO
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/13/index.m3u8
+
+#EXTINF:-1,Nash Futbol HD RUSO
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/25/index.m3u8
+
+#EXTINF:-1,Rai Sport | SD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8
+
+#EXTINF:-1,1 Abu Dhabi Sports HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1,Abu Dhabi Sports | SD
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+
+#EXTINF:-1,Abu Dhabi Sports OPCION 2
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+
+#EXTINF:-1,Abu Dhabi Sports 2 HD opcion 1
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,Abu Dhabi Sports 2 HD opcion 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+#EXTINF:-1,Abu Dhabi Sports 2 | SD
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
+#EXTINF:-1,Abu Dhabi Sports OPCION 2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:-1,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:-1,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:-1,Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+
+#EXTINF:-1,Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+#EXTINF:-1,Sport Arab
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1,Heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,Todo Deportes opcion 2
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Extrema TV POCKET
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1,Garage TV Separa
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:-1,El Chavo Animado
+http://3.sendvid.com/y00xutjl.mp4
+
+#EXTINF:-1,Eurosport 2 Russia HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/77/index.m3u8
+
+#EXTINF:-1,Viasat Sport East HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/75/index.m3u8
+
+#EXTINF:-1,Viasat Sport East HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/76/index.m3u8
+
+#EXTINF:-1,Avto Plus Aleman
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/248/index.m3u8
+
+#EXTINF:-1,Sport 1 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/453/index.m3u8
+
+#EXTINF:-1,Sky Sport News Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/460/index.m3u8
+
+#EXTINF:-1,Sky Sport Austria HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/475/index.m3u8
+
+#EXTINF:-1,Rai Sport
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+
+#EXTINF:-1,TVP Mazatlan DEPORTE mx
+https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+
+#EXTINF:-1,Hit Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+
+#EXTINF:-1,TOP LATINO TV  s. y L
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+
+#EXTINF:-1,Canela TV LATINO
+http://servicioamerica.com:1935/8154/8154/playlist.m3u8
+
+#EXTINF:-1,La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w1614152194.m3u8
+
+#EXTINF:-1,TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1,MTV HITS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8
+
+#EXTINF:-1,MTV DANCE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
+
+#EXTINF:-1,MTV ROCKS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/230/index.m3u8
+
+#EXTINF:-1,Tv Pop
+http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
+
+#EXTINF:-1,MUSICA:PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,MUSICA:Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,MUSICA:Music Top Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,MUSICA:Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,MUSICA:Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+
+#EXTINF:-1,MUSICA:California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1,MUSICA:Virgin Radio
+http://fms.105.net:1935/live/virgin1/.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,MUSICA:Dream Tv
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,RADIO MONTECARLO
+http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,Eurosport 1
+http://87.118.138.144:8030/play/a00a
+
+#EXTINF:-1,Eurosport 2
+http://87.118.138.144:8030/play/a036
+
+#EXTINF:-1,UK : RTE ONE
+http://178.33.237.97:8080/live/shahzad/shahzad/107.ts
+
+#EXTINF:-1,UK: 5 Star
+http://178.33.237.97:8080/live/shahzad/shahzad/17.ts
+
+#EXTINF:-1,UK | Sky 1 HD Local
+http://178.33.237.97:8080/live/shahzad/shahzad/252.ts
+
+#EXTINF:-1,UK : RTE TWO
+http://178.33.237.97:8080/live/shahzad/shahzad/106.ts
+
+#EXTINF:-1,UK: AMC
+http://178.33.237.97:8080/live/shahzad/shahzad/15.ts
+
+#EXTINF:-1,UK : RTE JUNIOR
+http://178.33.237.97:8080/live/shahzad/shahzad/105.ts
+
+#EXTINF:-1,UK: Channel 4 HD
+http://178.33.237.97:8080/live/shahzad/shahzad/1552.ts
+
+#EXTINF:-1,UK: BBC Parliament
+http://178.33.237.97:8080/live/shahzad/shahzad/1560.ts
+
+#EXTINF:-1,UK: Crime and Investigation
+http://178.33.237.97:8080/live/shahzad/shahzad/30.ts
+
+#EXTINF:-1,UK: BBC 2
+http://178.33.237.97:8080/live/shahzad/shahzad/1546.ts
+
+#EXTINF:-1,UK: BBC 1 HD
+http://178.33.237.97:8080/live/shahzad/shahzad/1545.ts
+
+#EXTINF:-1,UK: BBC 2 HD
+http://178.33.237.97:8080/live/shahzad/shahzad/1547.ts
+
+#EXTINF:-1,UK: BBC 4 HD
+http://178.33.237.97:8080/live/shahzad/shahzad/1555.ts
+
+#EXTINF:-1,UK: Alibi
+http://178.33.237.97:8080/live/shahzad/shahzad/16.ts
+
+#EXTINF:-1,UK: Discovery Science
+http://178.33.237.97:8080/live/shahzad/shahzad/27.ts
+
+#EXTINF:-1,UK: Discovery Channel
+http://178.33.237.97:8080/live/shahzad/shahzad/29.ts
+
+#EXTINF:-1,UK: Dave HD
+http://178.33.237.97:8080/live/shahzad/shahzad/11.ts
+
+#EXTINF:-1,UK: Discovery Turbo
+http://178.33.237.97:8080/live/shahzad/shahzad/24.ts
+
+#EXTINF:-1,UK: Discovery Shed
+http://178.33.237.97:8080/live/shahzad/shahzad/25.ts
+
+#EXTINF:-1,UK: E!
+http://178.33.237.97:8080/live/shahzad/shahzad/9.ts
+
+#EXTINF:-1,UK: E4
+http://178.33.237.97:8080/live/shahzad/shahzad/8.ts
+
+#EXTINF:-1,UK: Drama
+http://178.33.237.97:8080/live/shahzad/shahzad/10.ts
+
+#EXTINF:-1,UK: Food Network
+http://178.33.237.97:8080/live/shahzad/shahzad/7.ts
+
+#EXTINF:-1,UK: H2
+http://178.33.237.97:8080/live/shahzad/shahzad/6.ts
+
+#EXTINF:-1,UK: History HD
+http://178.33.237.97:8080/live/shahzad/shahzad/5.ts
+
+#EXTINF:-1,UK: ITV 1 HD
+http://178.33.237.97:8080/live/shahzad/shahzad/1548.ts
+
+#EXTINF:-1,UK: ITV 2
+http://178.33.237.97:8080/live/shahzad/shahzad/1549.ts
+
+#EXTINF:-1,UK: ITV 3
+http://178.33.237.97:8080/live/shahzad/shahzad/1550.ts
+
+#EXTINF:-1,UK: ITV 4
+http://178.33.237.97:8080/live/shahzad/shahzad/1551.ts
+
+#EXTINF:-1,UK: ITV Be
+http://178.33.237.97:8080/live/shahzad/shahzad/1557.ts
+
+#EXTINF:-1,UK: ITV Encore
+http://178.33.237.97:8080/live/shahzad/shahzad/1558.ts
+
+#EXTINF:-1,UK: ITV Encore HD
+http://178.33.237.97:8080/live/shahzad/shahzad/1553.ts
+
+#EXTINF:-1,UK: Really
+http://178.33.237.97:8080/live/shahzad/shahzad/2.ts
+
+#EXTINF:-1,UK: Sky Living
+http://178.33.237.97:8080/live/shahzad/shahzad/1.ts
+
+#EXTINF:-1,UK: Quest
+http://178.33.237.97:8080/live/shahzad/shahzad/3.ts
+
+#EXTINF:-1,UK: Syfy
+http://178.33.237.97:8080/live/shahzad/shahzad/36.ts
+
+#EXTINF:-1,VH1
+http://178.33.237.97:8080/live/shahzad/shahzad/96.ts
+
+#EXTINF:-1,UK: Home
+http://178.33.237.97:8080/live/shahzad/shahzad/4.ts
+
+#EXTINF:-1,UK: Nat Geo Wild
+http://178.33.237.97:8080/live/shahzad/shahzad/22.ts
+
+#EXTINF:-1,UK: Five USA
+http://178.33.237.97:8080/live/shahzad/shahzad/1556.ts
+
+#EXTINF:-1,Yesterday
+http://178.33.237.97:8080/live/shahzad/shahzad/32.ts
+
+#EXTINF:-1,UK: CHANNEL 5 HD
+http://178.33.237.97:8080/live/shahzad/shahzad/1559.ts
+
+#EXTINF:-1,Watch
+http://178.33.237.97:8080/live/shahzad/shahzad/33.ts
+
+#EXTINF:-1,UK : RTE NEWS
+http://178.33.237.97:8080/live/shahzad/shahzad/108.ts
+
+#EXTINF:-1,TG4
+http://178.33.237.97:8080/live/shahzad/shahzad/111.ts
+
+#EXTINF:-1,At The Races
+http://178.33.237.97:8080/live/oz/oz2/41.ts
+
+#EXTINF:-1,Iptv4sat.com BT Sport 1HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/44.ts
+
+#EXTINF:-1,Iptv4sat.com Bt Sport 2 HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/45.ts
+
+#EXTINF:-1,Iptv4sat.com BT Sport 3 HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/46.ts
+
+#EXTINF:-1,BT Sport 3 SD
+http://178.33.237.97:8080/live/oz/oz2/2336.ts
+
+#EXTINF:-1,BT Sport ESPN HD
+http://178.33.237.97:8080/live/oz/oz2/251.ts
+
+#EXTINF:-1,Iptv4sat.com ES: BARCA TV
+http://178.33.237.97:8080/live/Mohamed/Mohamed/204.ts
+
+#EXTINF:-1,Iptv4sat.com ES: C Deportes
+http://5.189.190.163:8000/live/raffaele/raffaele/1599.ts
+
+#EXTINF:-1,Iptv4sat.com ES: C Liga
+http://5.189.190.163:8000/live/raffaele/raffaele/1583.ts
+
+#EXTINF:-1,Iptv4sat.com ES: C LIGA HD +
+http://5.189.190.163:8000/live/raffaele/raffaele/1607.ts
+
+#EXTINF:-1,Racing Uk
+http://178.33.237.97:8080/live/oz/oz2/42.ts
+
+#EXTINF:-1,Iptv4sat.com Racing Uk
+http://178.33.237.97:8080/live/Mohamed/Mohamed/42.ts
+
+#EXTINF:-1,Setanta Ireland HD
+http://178.33.237.97:8080/live/oz/oz2/63.ts
+
+#EXTINF:-1,Iptv4sat.com Setanta Ireland HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/63.ts
+
+#EXTINF:-1,SKY SPORTS Action HD
+http://178.33.237.97:8080/live/oz/oz2/51.ts
+
+#EXTINF:-1,Iptv4sat.com SKY SPORTS Action HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/51.ts
+
+#EXTINF:-1,Sky Sports Action SD
+http://178.33.237.97:8080/live/oz/oz2/52.ts
+
+#EXTINF:-1,Iptv4sat.com Sky Sports Action SD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/52.ts
+
+#EXTINF:-1,SKY SPORTS Arena HD
+http://178.33.237.97:8080/live/oz/oz2/1629.ts
+
+#EXTINF:-1,Iptv4sat.com SKY SPORTS Arena HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/1629.ts
+
+#EXTINF:-1,Sky Sports Arena HD (LOCAL)
+http://178.33.237.97:8080/live/oz/oz2/1872.ts
+
+#EXTINF:-1,Iptv4sat.com Sky Sports Arena HD (LOCAL)
+http://178.33.237.97:8080/live/Mohamed/Mohamed/1872.ts
+
+#EXTINF:-1,Iptv4sat.com SKY SPORTS Cricket HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/49.ts
+
+#EXTINF:-1,SKY SPORTS Cricket HD
+http://178.33.237.97:8080/live/oz/oz2/49.ts
+
+#EXTINF:-1,Iptv4sat.com Sky Sports Cricket SD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/50.ts
+
+#EXTINF:-1,Sky Sports Cricket SD
+http://178.33.237.97:8080/live/oz/oz2/50.ts
+
+#EXTINF:-1,Sky Sports F1 HD
+http://178.33.237.97:8080/live/oz/oz2/57.ts
+
+#EXTINF:-1,Iptv4sat.com Sky Sports F1 HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/57.ts
+
+#EXTINF:-1,Iptv4sat.com Sky Sports F1 SD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/64.ts
+
+#EXTINF:-1,Iptv4sat.com SKY SPORTS Football HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/1801.ts
+
+#EXTINF:-1,Iptv4sat.com SKY SPORTS Football HD (2)
+http://178.33.237.97:8080/live/Mohamed/Mohamed/1873.ts
+
+#EXTINF:-1,Iptv4sat.com Sky Sports Main Event SD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/48.ts
+
+#EXTINF:-1,Sky Sports Main Event SD
+http://178.33.237.97:8080/live/oz/oz2/48.ts
+
+#EXTINF:-1,Sky Sports Mix HD
+http://178.33.237.97:8080/live/oz/oz2/247.ts
+
+#EXTINF:-1,Iptv4sat.com Sky Sports Mix HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/247.ts
+
+#EXTINF:-1,Sky Sports Mix SD
+http://178.33.237.97:8080/live/oz/oz2/222.ts
+
+#EXTINF:-1,Iptv4sat.com Sky Sports Mix SD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/222.ts
+
+#EXTINF:-1,Sky Sports News HQ
+http://178.33.237.97:8080/live/oz/oz2/1614.ts
+
+#EXTINF:-1,Iptv4sat.com Sky Sports News HQ
+http://178.33.237.97:8080/live/Mohamed/Mohamed/1614.ts
+
+#EXTINF:-1,Iptv4sat.com Sky Sports News HQ HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/264.ts
+
+#EXTINF:-1,Sky Sports News HQ HD
+http://178.33.237.97:8080/live/oz/oz2/264.ts
+
+#EXTINF:-1,SKY SPORTS Premier Leauge HD
+http://178.33.237.97:8080/live/oz/oz2/55.ts
+
+#EXTINF:-1,Sky Sports Premier Leauge SD
+http://178.33.237.97:8080/live/oz/oz2/56.ts
+
+#EXTINF:-1,Iptv4sat.com Sky Sports Premier Leauge SD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/56.ts
+
+#EXTINF:-1,SKY SPORTS The Open HD
+http://178.33.237.97:8080/live/oz/oz2/53.ts
+
+#EXTINF:-1,Iptv4sat.com SKY SPORTS The Open HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/53.ts
+
+#EXTINF:-1,Iptv4sat.com Sky Sports The Open SD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/54.ts
+
+#EXTINF:-1,Sky Sports The Open SD
+http://178.33.237.97:8080/live/oz/oz2/54.ts
+
+#EXTINF:-1,Iptv4sat.com At The Races
+http://178.33.237.97:8080/live/Mohamed/Mohamed/41.ts
+
+#EXTINF:-1,UK : Premier Sports HD
+http://178.33.237.97:8080/live/oz/oz2/61.ts
+
+#EXTINF:-1,UK: BOX NATION HD
+http://178.33.237.97:8080/live/oz/oz2/1544.ts
+
+#EXTINF:-1,Iptv4sat.com UK: BOX NATION HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/1544.ts
+
+#EXTINF:-1,Iptv4sat.com UK: British Eurosport 1 HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/59.ts
+
+#EXTINF:-1,UK: British Eurosport 1 HD
+http://178.33.237.97:8080/live/oz/oz2/59.ts
+
+#EXTINF:-1,UK: British EuroSports 2
+http://178.33.237.97:8080/live/oz/oz2/58.ts
+
+#EXTINF:-1,Iptv4sat.com UK: British EuroSports 2
+http://178.33.237.97:8080/live/Mohamed/Mohamed/58.ts
+
+#EXTINF:-1,Iptv4sat.com UK: BT SPORT 1 SD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/511.ts
+
+#EXTINF:-1,UK: BT SPORT 1 SD
+http://178.33.237.97:8080/live/oz/oz2/511.ts
+
+#EXTINF:-1,UK: BT SPORT 2 SD
+http://178.33.237.97:8080/live/oz/oz2/512.ts
+
+#EXTINF:-1,Iptv4sat.com UK: BT SPORT 2 SD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/512.ts
+
+#EXTINF:-1,Iptv4sat.com UK: BT SPORT ESPN SD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/510.ts
+
+#EXTINF:-1,UK: BT SPORT ESPN SD
+http://178.33.237.97:8080/live/oz/oz2/510.ts
+
+#EXTINF:-1,Iptv4sat.com UK: EIR SPORT 1
+http://178.33.237.97:8080/live/Mohamed/Mohamed/1537.ts
+
+#EXTINF:-1,UK: EIR SPORT 1
+http://178.33.237.97:8080/live/oz/oz2/1537.ts
+
+#EXTINF:-1,Iptv4sat.com UK: EIR SPORT 2
+http://178.33.237.97:8080/live/Mohamed/Mohamed/1538.ts
+
+#EXTINF:-1,UK: EIR SPORT 2
+http://178.33.237.97:8080/live/oz/oz2/1538.ts
+
+#EXTINF:-1,US: NBC Golf HD
+http://178.33.237.97:8080/live/oz/oz2/155.ts
+
+#EXTINF:-1,US: WWE HD
+http://178.33.237.97:8080/live/oz/oz2/152.ts
+
+#EXTINF:-1,Iptv4sat.com US: WWE HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/152.ts
+
+#EXTINF:-1,USA: UFC Fight pass
+http://178.33.237.97:8080/live/oz/oz2/156.ts
+
+#EXTINF:-1,Iptv4sat.com USA: UFC Fight pass
+http://178.33.237.97:8080/live/Mohamed/Mohamed/156.ts
+
+#EXTINF:-1,VIP: Setanta HD
+http://178.33.237.97:8080/live/oz/oz2/60.ts
+
+#EXTINF:-1,Iptv4sat.com VIP: Setanta HD
+http://178.33.237.97:8080/live/Mohamed/Mohamed/60.ts
+
+#EXTINF:-1,Toonami
+http://54.255.155.24:1935/Live/_definst_/amlst:sweetbcha1novD327L240P/playlist.m3u8
+
+#EXTINF:-1,360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+
+#EXTINF:-1,ABC 7 WWSB Sarasota
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1,MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+
+#EXTINF:-1,Action Sports 4U
+http://151.80.20.150:1935/actionsports4u/actionsports4u/playlist.m3u8
+
+#EXTINF:-1,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
+#EXTINF:-1,Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1,Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+
+#EXTINF:-1,Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1,Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+
+#EXTINF:-1,Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+
+#EXTINF:-1,BYUtv
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+
+#EXTINF:-1,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+
+#EXTINF:-1,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+
+#EXTINF:-1,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+
+#EXTINF:-1,Cartoons 4U
+http://151.80.20.150:1935/cartoons4u/cartoons4u/playlist.m3u8
+
+#EXTINF:-1,CBS News (Opt-1)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1,CBS News (Opt-2)
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+
+#EXTINF:-1,CGTN America
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+
+#EXTINF:-1,Charge! (Geo)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+#EXTINF:-1,Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1,Classic TV 4U
+http://nyc01.netcasterstream.com:8081/dashtv/classictv4u/playlist.m3u8
+
+#EXTINF:-1,Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+
+#EXTINF:-1,CNN (Updated)
+http://149.56.26.63:1935/livenewsnetwork/myStream/playlist.m3u8
+
+#EXTINF:-1,Country Music 4U
+http://151.80.20.150:1935/countrymusic4u/countrymusic4u/playlist.m3u8
+
+#EXTINF:-1,Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+
+#EXTINF:-1,Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+
+#EXTINF:-1,Destination America
+https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8?pbs=7ef756186b5e4775bc6dec15cd74dd06
+
+#EXTINF:-1,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+
+#EXTINF:-1,District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+
+#EXTINF:-1,Documentaries 4U
+http://151.80.20.150:1935/documentaries4u/documentaries4u/playlist.m3u8
+
+#EXTINF:-1,Evine Live
+http://shophqlivehls-i.akamaihd.net/hls/live/217490/onair/layer1.m3u8
+
+#EXTINF:-1,Film Club
+http://xhot_fartsx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,Fox News Talk Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+
+#EXTINF:-1,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1,Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+
+#EXTINF:-1,Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+
+#EXTINF:-1,House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+
+#EXTINF:-1,Hunt Channel
+https://nimble.huntchannel.tv/abr/huntchannel/live/huntchannelhq/chunks.m3u8
+
+#EXTINF:-1,IndieWave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+
+#EXTINF:-1,InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+
+#EXTINF:-1,Investigation Discovery HD
+https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+
+#EXTINF:-1,Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+
+#EXTINF:-1,Jupiter Broadcasting
+http://jblive.videocdn.scaleengine.net/jb-live/play/jblive.stream/playlist.m3u8
+
+#EXTINF:-1,Kartoon Festival
+http://151.80.20.150:1935/kartoon/kartoon/playlist.m3u8
+
+#EXTINF:-1,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+
+#EXTINF:-1,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
+#EXTINF:-1,Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+
+#EXTINF:-1,Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
+
+#EXTINF:-1,Metro Cable Network Channel 6
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+
+#EXTINF:-1,Movee 4U Chicago
+http://nyc01.netcasterstream.com:8081/dashtv/movee4u/playlist.m3u8
+
+#EXTINF:-1,Music Choice Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1,NBA TV
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+
+#EXTINF:-1,New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1,Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1,NHL Network
+https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
+
+#EXTINF:-1,Olympic Channel
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
+
+#EXTINF:-1,Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+
+#EXTINF:-1,Pac-12 National
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+
+#EXTINF:-1,Pluto TV Headlines
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+
+#EXTINF:-1,Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+
+#EXTINF:-1,QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+
+#EXTINF:-1,Radio U 88.7 Colombus
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+
+#EXTINF:-1,Rev'n
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+
+#EXTINF:-1,RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+
+#EXTINF:-1,RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1,Sci-Fi 4U
+http://151.80.20.150:1935/scifitv/scifitv/playlist.m3u8
+
+#EXTINF:-1,Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+
+#EXTINF:-1,Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+
+#EXTINF:-1,Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+
+#EXTINF:-1,Spydar TV
+http://nyc01.netcasterstream.com:8081/dashtv/spydartv/playlist.m3u8
+
+#EXTINF:-1,Stadium Sports Network
+https://04476b7c682c4da8b8b4bfe23ef879c1.midas.us-east-1.amazonaws.com/v1/master/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1,SupTV
+http://91.134.238.137/live/main/index.m3u8
+
+#EXTINF:-1,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:-1,Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+
+#EXTINF:-1,The Blaze
+http://theblaze.global.ssl.fastly.net/live/blaze-dvr/master.m3u8
+
+#EXTINF:-1,The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+#EXTINF:-1,The CW PIX 11 New York
+https://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8
+
+#EXTINF:-1,The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1,TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+
+#EXTINF:-1,Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+
+#EXTINF:-1,TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+
+#EXTINF:-1,TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+
+#EXTINF:-1,TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1,VTV Channel 6 Colorado
+http://hls.ksl.com/t/strata/playlist.m3u8
+
+#EXTINF:-1,Weather 4U
+http://151.80.20.150:1935/weather4u/weather4u/playlist.m3u8
+
+#EXTINF:-1,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1,Western 4U
+http://nyc01.netcasterstream.com:8081/dashtv/western4u/playlist.m3u8
+
+#EXTINF:-1,WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1,WHPR TV 33 Detroit
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+
+#EXTINF:-1,NBC News 13 (Albany)
+http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+
+#EXTINF:-1,KXAN News (Austin)
+https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+
+#EXTINF:-1,NBC 11 News (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+
+#EXTINF:-1,WBZ 4 News (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+
+#EXTINF:-1,News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+
+#EXTINF:-1,News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+
+#EXTINF:-1,News 12 (New Jersey)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+
+#EXTINF:-1,News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
+
+#EXTINF:-1,News 12 (Westchester)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
+
+#EXTINF:-1,WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+
+#EXTINF:-1,NBC 5 News (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+
+#EXTINF:-1,WGN 9 News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+
+#EXTINF:-1,CBS 5 News (Colorado)
+http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1,WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+
+#EXTINF:-1,News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+
+#EXTINF:-1,CBS 4 News (Indianapolis)
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+
+#EXTINF:-1,News 12 (Long Island)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+
+#EXTINF:-1,KAMC (Lubbock)
+http://kamc-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1,CBS 3 News (Michigan)
+http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1,WXXV News 25 (Mississippi)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+
+#EXTINF:-1,NewsChannel 21 (Oregon)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+
+#EXTINF:-1,ABC News 9 (Orlando)
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
+
+#EXTINF:-1,NBC 10 News (Philadelphia)
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+
+#EXTINF:-1,Channel 11 News WPXI (Pittsburgh)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+
+#EXTINF:-1,CBS 2 (Salt Lake City)
+http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1,KOB 4 News (Santa Fe)
+https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+
+#EXTINF:-1,KOMO 4 News (Seattle)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+
+#EXTINF:-1,Fox 5 News (Washington DC)
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+
+#EXTINF:-1,NBC 4 News (Washington DC)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+
+#EXTINF:-1,KRGV 5 (Weslaco)
+http://krgv-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1,CBC News
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+
+#EXTINF:-1,CTV News Live 1
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+
+#EXTINF:-1,CTV News Live 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+
+#EXTINF:-1,CTV News Live 3
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+
+#EXTINF:-1,CTV News Live 4
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+
+#EXTINF:-1,Arise News
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+
+#EXTINF:-1,Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+#EXTINF:-1,Heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1,Horror Channel
+http://nyc01.netcasterstream.com:8081/live/horror/playlist.m3u8
+
+#EXTINF:-1,ITV 4
+https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
+
+#EXTINF:-1,MTV
+https://bud122.budtv.tv/liverobos/mtv_p3/playlist.m3u8
+
+#EXTINF:-1,MTV Hits
+https://bud122.budtv.tv/liverobos/mtv_hits_p3/playlist.m3u8
+
+#EXTINF:-1,Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1,Dubai One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+
+#EXTINF:-1,Dubai Sports SD
+http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
+
+#EXTINF:-1,Dubai Zaman (Opt-1)
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+
+#EXTINF:-1,Dubai Zaman (Opt-2)
+http://selevision9887-i.akamaihd.net/hls/live/219286/98870/1.m3u8
+
+#EXTINF:-1, Hip Hop/R&B
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+
+#EXTINF:-1,Hit List
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+
+#EXTINF:-1,R&B/Soul
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+
+#EXTINF:-1,Rap
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+
+#EXTINF:-1,Rap 2K
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+
+#EXTINF:-1,90s
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+
+#EXTINF:-1,Throwback Jamz
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+
+#EXTINF:-1,Tropicales
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+
+#EXTINF:-1,Teen Beats
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+
+#EXTINF:-1,Kidz Only
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+
+#EXTM3U
+
+
+#EXTINF:-1,H265:FR_CANAL SPORT_FULLHD
+http://iptv.smi-iptv.com:80/live/abcdef/abcdef/4328.ts
+
+#EXTINF:-1,[FRE] Bein Sports 3 HD FR
+http://www.e900x.com:8000/live/kris/kris/1581.ts
+
+#EXTINF:-1,[ALB]: SuperSport 2
+http://www.e900x.com:8000/live/kris/kris/2170.ts
+
+#EXTINF:-1,[ALB]: SuperSport 3
+http://www.e900x.com:8000/live/kris/kris/2176.ts
+
+#EXTINF:-1,[ALB]: SuperSport 4
+http://www.e900x.com:8000/live/kris/kris/2177.ts
+
+#EXTINF:-1,[ARB] Abu Dhabi Sports 1
+http://www.e900x.com:8000/live/kris/kris/27.ts
+
+#EXTINF:-1,[ARB] Abu Dhabi Sports 2
+http://www.e900x.com:8000/live/kris/kris/28.ts
+
+#EXTINF:-1,[ARB] Al Iraqiya Sports
+http://www.e900x.com:8000/live/kris/kris/1663.ts
+
+#EXTINF:-1,[ARB] Bahrain Sport 1
+http://www.e900x.com:8000/live/kris/kris/1714.ts
+
+#EXTINF:-1,[ARB] Bahrain Sport 2
+http://www.e900x.com:8000/live/kris/kris/1641.ts
+
+#EXTINF:-1,[ARB] Bein Sports 1 HD
+http://www.e900x.com:8000/live/kris/kris/739.ts
+
+#EXTINF:-1,[ARB] Bein Sports 11 HD
+http://www.e900x.com:8000/live/kris/kris/749.ts
+
+#EXTINF:-1,[ARB] Bein Sports 12 HD
+http://www.e900x.com:8000/live/kris/kris/750.ts
+
+#EXTINF:-1,[ARB] DMC Sports
+http://www.e900x.com:8000/live/kris/kris/1833.ts
+
+#EXTINF:-1,[ARB] Dubai Sports 4
+http://www.e900x.com:8000/live/kris/kris/30.ts
+
+#EXTINF:-1,[ARB] Jordan Sport
+http://www.e900x.com:8000/live/kris/kris/106.ts
+
+#EXTINF:-1,[ARB] Kuwait Sports
+http://www.e900x.com:8000/live/kris/kris/1685.ts
+
+#EXTINF:-1,[EX-YU]: Arena Sport HD 1
+http://www.e900x.com:8000/live/kris/kris/2145.ts
+
+#EXTINF:-1,[EX-YU]: Arena Sport HD 2
+http://www.e900x.com:8000/live/kris/kris/2144.ts
+
+#EXTINF:-1,[EX-YU]: Arena Sport HD 3
+http://www.e900x.com:8000/live/kris/kris/2146.ts
+
+#EXTINF:-1,[EX-YU]: Arena Sport HD 4
+http://www.e900x.com:8000/live/kris/kris/2147.ts
+
+#EXTINF:-1,[EX-YU]: Arena Sport HD 5
+http://www.e900x.com:8000/live/kris/kris/2148.ts
+
+#EXTINF:-1,[EX-YU]: Sport Klub 1 HD
+http://www.e900x.com:8000/live/kris/kris/2157.ts
+
+#EXTINF:-1,[EX-YU]: Sport Klub 2 HD
+http://www.e900x.com:8000/live/kris/kris/2158.ts
+
+#EXTINF:-1,[EX-YU]: Sport Klub 3 HD
+http://www.e900x.com:8000/live/kris/kris/2159.ts
+
+#EXTINF:-1,[FRE] Bein Sports 1 HD FR
+http://www.e900x.com:8000/live/kris/kris/1628.ts
+
+#EXTINF:-1,[FRE] Bein Sports 2 HD FR
+http://www.e900x.com:8000/live/kris/kris/1635.ts
+
+#EXTINF:-1,[POR] Sport TV 1 HD
+http://www.e900x.com:8000/live/kris/kris/508.ts
+
+#EXTINF:-1,[POR] Sporting TV
+http://www.e900x.com:8000/live/kris/kris/504.ts
+
+#EXTINF:-1,[UK] BT Sport 1
+http://www.e900x.com:8000/live/kris/kris/641.ts
+
+#EXTINF:-1,[UK] BT Sport 2
+http://www.e900x.com:8000/live/kris/kris/640.ts
+
+#EXTINF:-1,[UK] Setanta Sport
+http://www.e900x.com:8000/live/kris/kris/942.ts
+
+#EXTINF:-1,[UK] Sky Sports 4
+http://www.e900x.com:8000/live/kris/kris/945.ts
+
+#EXTINF:-1,[UK] Sky Sports Arena HD
+http://www.e900x.com:8000/live/kris/kris/941.ts
+
+#EXTINF:-1,[UK] Sky Sports F1
+http://www.e900x.com:8000/live/kris/kris/943.ts
+
+#EXTINF:-1,[UK] Sky Sports Football HD
+http://www.e900x.com:8000/live/kris/kris/947.ts
+
+#EXTINF:-1,[UK] Sky Sports Mix HD
+http://www.e900x.com:8000/live/kris/kris/946.ts
+
+#EXTINF:-1,[UK] Sky Sports Premier League
+http://www.e900x.com:8000/live/kris/kris/944.ts
+
+#EXTINF:-1,[USA] NBC Sports
+http://www.e900x.com:8000/live/kris/kris/2042.ts
+
+#EXTINF:-1,[USA] Sportsnet 360 HD
+http://www.e900x.com:8000/live/kris/kris/1957.ts
+
+#EXTINF:-1,[USA] Sportsnet One HD
+http://www.e900x.com:8000/live/kris/kris/1958.ts
+
+#EXTINF:-1,[USA] Sportsnet Ontario HD
+http://www.e900x.com:8000/live/kris/kris/1959.ts
+
+#EXTINF:-1,[USA] Sportsnet World HD
+http://www.e900x.com:8000/live/kris/kris/1960.ts
